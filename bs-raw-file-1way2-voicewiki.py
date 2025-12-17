@@ -21,9 +21,8 @@ CONDITION_MAPPING = {
 
 # 其他音效类型映射
 OTHER_SFX_MAPPING = {
-    "atk_sfx": {"script": "Atk SFX", "translation": "连枷扔出"},
-    "atk_hit": {"script": "Atk Hit", "translation": "连枷撞击"},
-    "atk_flyback_sfx": {"script": "Atk Flyback", "translation": "连枷飞回"},
+    "atk_sfx": {"script": "Atk SFX", "translation": "普攻音效"},
+    "atk_hit": {"script": "Atk Hit", "translation": "普攻命中"},
     "reload_sfx": {"script": "Reload SFX", "translation": "填弹音效"},
     "dryfire_sfx": {"script": "Dryfire SFX", "translation": "子弹用尽"},
     "ulti_sfx": {"script": "Ulti SFX", "translation": "大招音效"},
